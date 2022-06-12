@@ -1,0 +1,13 @@
+{
+    "Red":              "Rojo",
+    "Blue":             "Azul",
+    "Connect":          "Conectar",
+    "Disconnected":     "Desconectado",
+    "Connecting":       "Conectando",
+    "Connected":        "Conectado",
+    "Error":            "Error",
+    "Waiting":          "Esperando",
+    "IncorrectURL":     "URL incorrecta",
+    "Home":             "Inicio",
+    "WebSocketURL":     "Web socket URL"
+}
